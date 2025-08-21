@@ -37,22 +37,24 @@ Users can visualize a live blockchain, mine new blocks, and validate the integri
 ### 📦 Installation & Setup
 
 Clone the repository:
+
 ```bash
 git clone https://github.com/keshavgoelkg2000/blockchain-explorer.git
+```
 
 Install Dependencies:
+ 
 ```bash
 npm install express
-
 ```
 
 Run the server:
 ```bash
 node server.js
+```
 
 Open the application:
 The terminal will display:
-```
 
 ```bash
 Server is running on http://localhost:8080
