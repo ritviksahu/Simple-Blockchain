@@ -5,7 +5,7 @@ Users can visualize a live blockchain, mine new blocks, and validate the integri
 
 
 ##  Features
-- Visualize a live blockchain 
+- Visualize a blockchain 
 - Mine new blocks with Proof-of-Work (SHA-256)  
 - Validate the integrity of an uploaded blockchain file  
 
@@ -31,15 +31,15 @@ Users can visualize a live blockchain, mine new blocks, and validate the integri
 
 ## ⚡ Getting Started
 
-### ✅ Prerequisites
+### Prerequisites
 - Install [Node.js](https://nodejs.org/) (includes npm)
 
-### 📦 Installation & Setup
+### Installation & Setup
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/keshavgoelkg2000/blockchain-explorer.git
+git clone https://github.com/ritviksahu/Simple-Blockchain.git
 ```
 
 Install Dependencies:
