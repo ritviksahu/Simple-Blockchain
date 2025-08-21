@@ -44,15 +44,18 @@ Install Dependencies:
 ```bash
 npm install express
 
+```
+
 Run the server:
 ```bash
 node server.js
 
 Open the application:
 The terminal will display:
+```
 
 ```bash
 Server is running on http://localhost:8080
-
+```
 
 Navigate to http://localhost:8080 in your browser.
